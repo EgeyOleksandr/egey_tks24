@@ -29,6 +29,7 @@
 ![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/3_lab/scr/unknown6.png)
 ## 6.
 ![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/3_lab/scr/unknown7.png)
+
 ### Висновок: 
 > у висновку потрібно відповісти на запитання:
 - :question: Що зроблено в роботі;
