@@ -18,7 +18,7 @@ print(f"{name}) start programming at {datetime.now()}")
 ![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/screenshots/WYrXCThNSbmG.png "Результат виконання програми")
 
 1. Створили перший ноутбук
-![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/screenshots/cl0a75CKF6HB.png "Мій ноутбук")
+![alt text](https://github.com/EgeyOleksandr/egey_tks24/raw/main/scr/image.png "Мій ноутбук")
 
 2. Навчились створювати програми на пайтон та працювати з ними
 
