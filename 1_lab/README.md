@@ -6,7 +6,7 @@
 Було зроблено:
 
 1. Створили папку та згрупували файли;
-2. Створили першк програму
+2. Створили першу програму
 
 - вставлений код / текстовий або числовий результат / інші результати:
 ```python
@@ -15,7 +15,7 @@ name = "Oleksandr"
 
 print(f"{name}) start programming at {datetime.now()}")
 ```
-![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/screenshots/WYrXCThNSbmG.png "Результат виконання програми")
+![alt text](https://github.com/EgeyOleksandr/egey_tks24/raw/main/scr/image2.png "Результат виконання програми")
 
 1. Створили перший ноутбук
 ![alt text](https://github.com/EgeyOleksandr/egey_tks24/raw/main/scr/image.png "Мій ноутбук")
