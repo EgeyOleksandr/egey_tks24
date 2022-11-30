@@ -34,8 +34,8 @@
 ![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/unknown%20(11).png "Робота з циклами")
 
 ## 6.
-![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/unknown%20(12).png "Робота з циклами")
-![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/2_lab/scr/unknown%20(13).png "Робота з циклами")
+![alt text](https://github.com/EgeyOleksandr/egey_tks24/raw/main/2_lab/scr/image.png "Робота з циклами")
+![alt text](https://github.com/EgeyOleksandr/egey_tks24/raw/main/2_lab/scr/image2.png "Робота з циклами")
 
 ### Висновок: 
 > у висновку потрібно відповісти на запитання:
